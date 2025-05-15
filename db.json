@@ -1,0 +1,63 @@
+{
+  "watchlist": [
+    {
+      "id": 4,
+      "type": "film",
+      "source_id": 398,
+      "comments": "Random random random",
+      "status": "Watching"
+    },
+    {
+      "id": 5,
+      "type": "show",
+      "source_id": 111,
+      "comments": "Meow",
+      "status": "Watched"
+    },
+    {
+      "id": 6,
+      "type": "show",
+      "source_id": 238,
+      "comments": "Goodness gracious",
+      "status": "To Watch"
+    },
+    {
+      "id": 7,
+      "type": "film",
+      "source_id": 123,
+      "comments": "Something something something",
+      "status": "Watching"
+    },
+    {
+      "id": 8,
+      "type": "film",
+      "source_id": 321,
+      "comments": "Watching",
+      "status": "To Watch"
+    },
+    {
+      "source_id": "424",
+      "type": "movie",
+      "status": "Watched",
+      "id": 9
+    },
+    {
+      "source_id": "598",
+      "type": "movie",
+      "status": "Watching",
+      "id": 10
+    },
+    {
+      "source_id": "70785",
+      "type": "tv",
+      "status": "Watching",
+      "id": 12
+    },
+    {
+      "source_id": "1398",
+      "type": "tv",
+      "status": "To Watch",
+      "id": 13
+    }
+  ]
+}
